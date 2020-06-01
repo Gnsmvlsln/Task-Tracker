@@ -1,6 +1,8 @@
-# flutter_demoooooos
+# Task - Tracker
 
-A new Flutter application.
+A new Flutter application which I created as the part of learning flutter and Dart.
+This is a simple application where user can add new entries, delete new entries and they can mark each item as done using the chechboxes.
+The main purpose of creating this app is to learn statemanagement concepts in flutter. And I implemented the concepts of 'Lifting the state up' and Providers for handling the state and data.
 
 ## Getting Started
 
